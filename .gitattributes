@@ -21,7 +21,7 @@
 *.pyd    binary
 
 # Jupyter notebook
-*.ipynb  linguist-vendored
+*.ipynb  text diff=python
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
